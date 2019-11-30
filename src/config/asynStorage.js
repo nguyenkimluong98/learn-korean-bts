@@ -1,0 +1,4 @@
+export default {
+  FAVORITE_PHRASE: "FAVORITE_PHRASE",
+  APP_LANGUAGE: "APP_LANGUAGE"
+};
